@@ -1,5 +1,11 @@
 
 #EXTM3U
+#EXTINF:0 type="stream" channelId="2550", Azad Azərbaycan
+http://flussonic.izone.az:80/azadazerbaycan/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", İctimai TV
+http://flussonic.izone.az:80/ictimaitv/index.m3u8
+#EXTINF:0 type="stream" channelId="641", AzTV
+http://flussonic.izone.az:80/aztv/index.m3u8
 #EXTINF:-1 tvg-id="XezerTV.az@SD",Xezer TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:-1 tvg-id="AlvinChannelTV.az@SD",Alvin Channel TV (360p) [Not 24/7]
@@ -216,6 +222,7 @@ https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
 #EXTINF:-1 tvg-id="SyriaTV.tr" tvg-logo="https://i.imgur.com/FjuVuXF.jpeg" group-title="Yurt Disi",Syria TV
 
 https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+
 
 
 
