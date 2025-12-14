@@ -1,5 +1,5 @@
 #EXTINF:0 type="stream" channelId="-1", idman Azerbaycan
-http://flussonic.izone.az:80/idmanaz/index.m3u8
+https://str.yodacdn.net/idmantele/index.m3u8?token=eyJpcCI6IjIxMi40Ny4xNTAuMyIsInVhIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE0OyBlbi1VUzsgMjIwMzEyOUcgQnVpbGQvVUtRMS4yMzEwMDMuMDAyKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTIzIiwiZXhwIjoxNzY0Mjc2MTcwLCJqdGkiOiJiZTI5YzRmNGY1Yzg5NTAyIn0=.ExSyticQxUWIVOsFFjOj5eom494ZZlk4gVlP4K1cGYM=
 #EXTM3U
 #EXTINF:-1 tvg-id="XezerTV.az@SD",Xezer TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
@@ -219,3 +219,4 @@ https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
 #EXTINF:-1 tvg-id="SyriaTV.tr" tvg-logo="https://i.imgur.com/FjuVuXF.jpeg" group-title="Yurt Disi",Syria TV
 
 https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+
