@@ -20,10 +20,6 @@ https://str.yodacdn.net/idmantele/index.m3u8?token=eyJpcCI6IjIxMi40Ny4xNTAuMyIsI
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
 #EXTINF:-1 tvg-id="ARBGunes.az@SD",ARB Gunes
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
-#EXTINF:-1 tvg-id="AzTV.az@SD",Az TV (1080p)
-https://str.yodacdn.net/azertv/index.m3u8?token=eyJpcCI6IjIxMi40Ny4xNDkuMTI1IiwidWEiOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgMTQ7IGVuLVVTOyAyMjAzMTI5RyBCdWlsZC9VS1ExLjIzMTAwMy4wMDIpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjMiLCJleHAiOjE3NjQxMDM1NDQsImp0aSI6ImY0MWY1NTU1YWM0ZTYzMGEifQ%3D%3D.1T%2ButpCmt1iGnDYwhD8LFaC8d%2BSRdbcGluJTuLFTmeM%3D
-#EXTINF:-1 tvg-id="AzadTV.az@SD",Azad TV
-https://str.yodacdn.net/atv/index.m3u8?token=eyJpcCI6IjE1OC4xODEuNDEuMjQiLCJ1YSI6Ik1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCAxNDsgZW4tVVM7IDIyMDMxMjlHIEJ1aWxkL1VLUTEuMjMxMDAzLjAwMikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyMyIsImV4cCI6MTc2NTcxNzQ4OSwianRpIjoiMDY3NTA3OTVlMWRlYmZiNyJ9.gTBzGSLy43jBNeUpFWWaGCck3ccxh+R/8SlUyzo8y/E=
 #EXTINF:-1 tvg-id="",Azstar TV
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #EXTINF:-1 tvg-id="BakuTV.az@SD",Baku TV (720p)
@@ -34,8 +30,6 @@ https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
 #EXTINF:-1 tvg-id="ELTV.az@SD",EL TV (260p) [Not 24/7]
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
-#EXTINF:-1 tvg-id="IctimaiTV.az@SD",Ictimai TV
-https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-id="",Kanal S TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
 #EXTINF:-1 tvg-id="", Naxcıvan TV
@@ -222,6 +216,7 @@ https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
 #EXTINF:-1 tvg-id="SyriaTV.tr" tvg-logo="https://i.imgur.com/FjuVuXF.jpeg" group-title="Yurt Disi",Syria TV
 
 https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+
 
 
 
