@@ -32,8 +32,8 @@ http://85.132.53.162:1935/live/eltv/playlist.m3u8
 https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-id="",Kanal S TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
-#EXTINF:-1 tvg-id="",Qafqaz Tv
-https://str.yodacdn.net/qafkaz/tracks-a1/mono.ts.m3u8?token=eyJpcCI6IjE1OC4xODEuNDEuMjQiLCJ1YSI6Ik1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCAxNDsgZW4tVVM7IDIyMDMxMjlHIEJ1aWxkL1VLUTEuMjMxMDAzLjAwMikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyMyIsImV4cCI6MTc2NTcxNzQ4OSwianRpIjoiMDY3NTA3OTVlMWRlYmZiNyJ9.gTBzGSLy43jBNeUpFWWaGCck3ccxh+R%2F8SlUyzo8y%2FE%3D
+#EXTINF:-1 tvg-id="", Naxcıvan TV
+https://str.yodacdn.net/ntv/index.m3u8?token=eyJpcCI6IjIxMi40Ny4xMzAuNjUiLCJ1YSI6Ik1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCAxNDsgZW4tVVM7IDIyMDMxMjlHIEJ1aWxkL1VLUTEuMjMxMDAzLjAwMikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyMyIsImV4cCI6MTc2NTcyNzMxNSwianRpIjoiOWU2ZWYwYzVlMzNhMmQxNCJ9.LB04nlDEYpRVGqAqLKyWioPOckt9WcsnqAZlb12nJM4=
 #EXTINF:-1 tvg-id="SpaceTV.az@SD",Space TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 #EXTINF:-1 tvg-id="XezerTV.az@SD",Xezer TV
@@ -218,6 +218,7 @@ https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
 #EXTINF:-1 tvg-id="SyriaTV.tr" tvg-logo="https://i.imgur.com/FjuVuXF.jpeg" group-title="Yurt Disi",Syria TV
 
 https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+
 
 
 
