@@ -212,8 +212,72 @@ http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 tvg-id="SAT7TURK.tr" tvg-logo="https://i.imgur.com/cKQIK4i.png" group-title="Yurt Disi",Sat 7 Turk
 https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
 #EXTINF:-1 tvg-id="SyriaTV.tr" tvg-logo="https://i.imgur.com/FjuVuXF.jpeg" group-title="Yurt Disi",Syria TV
-
 https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:0 type="stream" channelId="82", EuroSport 1
+http://flussonic.izone.az:80/eurosport/index.m3u8
+#EXTINF:0 type="stream" channelId="83", EuroSport 2
+http://flussonic.izone.az:80/eurosport2/index.m3u8
+#EXTINF:0 type="stream" channelId="217", EuroNews
+http://flussonic.izone.az:80/euronews/mono.m3u8
+#EXTINF:0 type="stream" channelId="1", Первый канал
+http://flussonic.izone.az:80/perviy/index.m3u8
+#EXTINF:0 type="stream" channelId="9", РБК
+http://flussonic.izone.az:80/rbk/index.m3u8
+#EXTINF:0 type="stream" channelId="2", Россия 1
+http://flussonic.izone.az:80/rossiya1/index.m3u8
+#EXTINF:0 type="stream" channelId="10", Россия 24
+http://flussonic.izone.az:80/rosiyya24/index.m3u8
+#EXTINF:0 type="stream" channelId="5", Россия К
+http://flussonic.izone.az:80/rossiakultura/index.m3u8
+#EXTINF:0 type="stream" channelId="264", РТР Планета
+http://flussonic.izone.az:80/rtrplaneta/index.m3u8
+#EXTINF:0 type="stream" channelId="6", НТВ
+http://flussonic.izone.az:80/ntvplus/index.m3u8
+#EXTINF:0 type="stream" channelId="17", Звезда
+http://flussonic.izone.az:80/zvezda/index.m3u8
+#EXTINF:0 type="stream" channelId="8", ТВ-3
+http://flussonic.izone.az:80/tv3/mono.m3u8
+#EXTINF:0 type="stream" channelId="22", Че
+http://flussonic.izone.az:80/ce/index.m3u8
+#EXTINF:0 type="stream" channelId="11", РЕН ТВ
+http://flussonic.izone.az:80/rentv/index.m3u8
+#EXTINF:0 type="stream" channelId="138", Мир ТВ
+http://flussonic.izone.az:80/mir/index.m3u8
+#EXTINF:0 type="stream" channelId="589", Мир 24
+http://flussonic.izone.az:80/mir24/index.m3u8
+#EXTINF:0 type="stream" channelId="312", Мир сериала
+http://flussonic.izone.az:80/mirseriala/index.m3u8
+#EXTINF:0 type="stream" channelId="16", ТНТ
+http://flussonic.izone.az:80/tnt/index.m3u8
+#EXTINF:0 type="stream" channelId="77", ТНТ4
+http://flussonic.izone.az:80/tntcomedy/index.m3u8
+#EXTINF:0 type="stream" channelId="12", СТС
+http://flussonic.izone.az:80/ctc/index.m3u8
+#EXTINF:0 type="stream" channelId="21", Домашний
+http://flussonic.izone.az:80/domashniy/index.m3u8
+#EXTINF:0 type="stream" channelId="23", Ю-ТВ
+http://flussonic.izone.az:80/yutv/index.m3u8
+#EXTINF:0 type="stream" channelId="26", Пятница!
+http://flussonic.izone.az:80/pyatnicha/index.m3u8
+#EXTINF:0 type="stream" channelId="7", 5 канал
+http://flussonic.izone.az:80/5kanal/index.m3u8
+#EXTINF:0 type="stream" channelId="13", ТВ Центр
+http://flussonic.izone.az:80/tvc/index.m3u8
+#EXTINF:0 type="stream" channelId="189", Русский Иллюзион
+http://flussonic.izone.az:80/russkiyiluzion/index.m3u8
+#EXTINF:0 type="stream" channelId="65", TV1000 Русское кино
+http://flussonic.izone.az:80/tv1000ruskoekino/index.m3u8
+#EXTINF:0 type="stream" channelId="66", TV1000
+http://flussonic.izone.az:80/tv1000/index.m3u8
+#EXTINF:0 type="stream" channelId="606", VIP Megahit HD
+http://erlyvideo.izone.az/VIPMegahitHD/index.m3u8
+#EXTINF:0 type="stream" channelId="214", TV1000 Action
+http://flussonic.izone.az:80/tv1000action/index.m3u8
+#EXTINF:0 type="stream" channelId="605", VIP Premiere HD
+http://erlyvideo.izone.az/VIPPremiereHD/index.m3u8
+#EXTINF:0 type="stream" channelId="607", VIP Comedy HD
+http://erlyvideo.izone.az/VIPComedyHD/index.m3u8
+
 
 
 
