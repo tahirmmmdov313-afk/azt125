@@ -12,7 +12,7 @@ https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1,ARB
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 #EXTINF:-1, idman Azerbaycan
-https://str.yodacdn.net/idmantele/index.m3u8?token=eyJpcCI6IjIxMi40Ny4xNTAuMyIsInVhIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkID
+https://str.yodacdn.net/idmantele/index.m3u8
 #EXTINF:-1,ARB 24
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
 #EXTINF:-1,ARB Gunes
@@ -275,3 +275,4 @@ http://flussonic.izone.az:80/tv1000action/index.m3u8
 http://erlyvideo.izone.az/VIPPremiereHD/index.m3u8
 #EXTINF:-1, VIP Comedy HD
 http://erlyvideo.izone.az/VIPComedyHD/index.m3u8
+
