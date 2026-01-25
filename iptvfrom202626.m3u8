@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Azad Azerbaycan TV
-https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
+http://flussonic.izone.az:80/azadazerbaycan/index.m3u8
 #EXTINF:-1,Ictimai TV
 https://live.itv.az/itv.m3u8
 #EXTINF:-1,Az TV (1080p)
@@ -275,4 +275,5 @@ http://flussonic.izone.az:80/tv1000action/index.m3u8
 http://erlyvideo.izone.az/VIPPremiereHD/index.m3u8
 #EXTINF:-1, VIP Comedy HD
 http://erlyvideo.izone.az/VIPComedyHD/index.m3u8
+
 
