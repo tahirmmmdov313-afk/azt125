@@ -44,7 +44,7 @@ https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-3
 #EXTINF:-1,Show TV Max
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
 #EXTINF:-1,Star TV
-https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/playlist.m3u8
+http://iptv.example.com/star.m3u8
 #EXTINF:-1,Eurostar
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
 #EXTINF:-1,Kanal D
@@ -275,6 +275,7 @@ http://flussonic.izone.az:80/tv1000action/index.m3u8
 http://erlyvideo.izone.az/VIPPremiereHD/index.m3u8
 #EXTINF:-1, VIP Comedy HD
 http://erlyvideo.izone.az/VIPComedyHD/index.m3u8
+
 
 
 
