@@ -41,14 +41,10 @@ https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1,Show TV
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
-#EXTINF:-1,Show TV Max
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
 #EXTINF:0 type="stream" channelId="2187", Star TV HD
 http://erlyvideo.izone.az:80/starhd/index.m3u8
 #EXTINF:-1,Star TV
 http://erlyvideo.izone.az:80/starhd/index.m3u8
-#EXTINF:-1,Eurostar
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
 #EXTINF:-1,Kanal D
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:-1,Euro D
@@ -277,6 +273,7 @@ http://flussonic.izone.az:80/tv1000action/index.m3u8
 http://erlyvideo.izone.az/VIPPremiereHD/index.m3u8
 #EXTINF:-1, VIP Comedy HD
 http://erlyvideo.izone.az/VIPComedyHD/index.m3u8
+
 
 
 
