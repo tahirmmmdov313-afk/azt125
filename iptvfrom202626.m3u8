@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv
 #EXTINF:-1,Xezer TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:0,MTV Azərbaycan
-https://cdn505.canlitvme.com/muztv.m3u8?tkn=lsfC7HNVHSV8fWmGUr9MZw&tms=1776624867&hst=tv.canlitvme.com&ip=212.47.144.255&utkn=4e4bd9466275fdc83114c01c0026a6b1&ch=muztv
+http://85.132.78.6:1935/live/muztv.stream/index.m3u8
 #EXTINF:-1,TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1,ATV
