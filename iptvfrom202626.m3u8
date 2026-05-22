@@ -2,7 +2,7 @@
 #EXTINF:-1,Azad Azerbaycan TV
 http://flussonic.izone.az:80/azadazerbaycan/index.m3u8
 #EXTINF:-1,Ictimai TV
-https://live.itv.az/itv.m3u8
+http://flussonic.izone.az:80/ictimaitv/index.m3u8
 #EXTINF:-1,Az TV (1080p)
 https://str.yodacdn.net/azertv/index.m3u8?token=eyJpcCI6IjIxMi40Ny4xNDkuMTI1IiwidWEiOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgMTQ7IGVuLVVTOyAyMjAzMTI5RyBCdWlsZC9VS1ExLjIzMTAwMy4wMDIpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjMiLCJleHAiOjE3NjQxMDM1NDQsImp0aSI6ImY0MWY1NTU1YWM0ZTYzMGEifQ%3D%3D.1T%2ButpCmt1iGnDYwhD8LFaC8d%2BSRdbcGluJTuLFTmeM%3D
 #EXTINF:-1,Xezer TV
