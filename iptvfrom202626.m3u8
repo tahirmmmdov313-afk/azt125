@@ -1,288 +1,444 @@
-#EXTM3U
-#EXTINF:-1,Azad Azerbaycan TV
+#EXTM3
+#EXTINF:0 type="stream" channelId="2550", Azad Azərbaycan
 http://flussonic.izone.az:80/azadazerbaycan/index.m3u8
-#EXTINF:-1,Ictimai TV
+#EXTINF:0 type="stream" channelId="-1", Xəzər
+http://flussonic.izone.az:80/xezertv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", ARB TV (Region TV)
+http://flussonic.izone.az:80/arb/index.m3u8
+#EXTINF:0 type="stream" channelId="1407", Space TV
+http://flussonic.izone.az:80/spacetv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Real TV
+http://flussonic.izone.az:80/realtv/index.m3u8
+#EXTINF:0 type="stream" channelId="641", AzTV
+http://flussonic.izone.az:80/aztv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", İctimai TV
 http://flussonic.izone.az:80/ictimaitv/index.m3u8
-#EXTINF:-1,Az TV (1080p)
-https://str.yodacdn.net/azertv/index.m3u8?token=eyJpcCI6IjIxMi40Ny4xNDkuMTI1IiwidWEiOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgMTQ7IGVuLVVTOyAyMjAzMTI5RyBCdWlsZC9VS1ExLjIzMTAwMy4wMDIpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjMiLCJleHAiOjE3NjQxMDM1NDQsImp0aSI6ImY0MWY1NTU1YWM0ZTYzMGEifQ%3D%3D.1T%2ButpCmt1iGnDYwhD8LFaC8d%2BSRdbcGluJTuLFTmeM%3D
-#EXTINF:-1,Xezer TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
-#EXTINF:-1,Alvin Channel TV (360p) [Not 24/7]
-https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
-#EXTINF:-1,ARB
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
-#EXTINF:-1, idman Azerbaycan
-https://str.yodacdn.net/idmantele/index.m3u8
-#EXTINF:-1,ARB 24
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
-#EXTINF:-1,ARB Gunes
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
-#EXTINF:-1,Azstar TV
-https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
-#EXTINF:-1,Baku TV (720p)
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
-#EXTINF:-1,CBC Sport Az
+#EXTINF:0 type="stream" channelId="823", Mədəniyyət TV
+http://flussonic.izone.az:80/medeniyyet/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Dunya TV
+http://flussonic.izone.az:80/dunyatv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", ARB 24
+http://flussonic.izone.az:80/arb24/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", ARB Gunesh
+http://flussonic.izone.az:80/arbgunesh/index.m3u8
+#EXTINF:0,🇦🇿 APA TV
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:0 type="stream" channelId="-1", BAKU TV
+https://rtmp.baku.tv/live/bakutv_720p.m3u8
+#EXTINF:0 type="stream" channelId="-1", Kepez TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", MuzTv Azerbaycan
+http://flussonic.izone.az:80/muztvaz/index.m3u8
+#EXTINF:0 type="stream" channelId="888", TMB TV
+http://flussonic.izone.az:80/tmb/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", İdman Azərbaycan
+http://flussonic.izone.az:80/idmanaz/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", CBC Sport HD
 http://erlyvideo.izone.az:80/cbcsporthd/index.m3u8
-#EXTINF:-1,Dunya TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
-#EXTINF:-1,EL TV (260p) [Not 24/7]
-http://85.132.53.162:1935/live/eltv/playlist.m3u8
-#EXTINF:-1,Kanal S TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
-#EXTINF:-1, Naxcıvan TV
-https://str.yodacdn.net/ntv/index.m3u8?token=eyJpcCI6IjIxMi40Ny4xMzAuNjUiLCJ1YSI6Ik1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCAxNDsgZW4tVVM7IDIyMDMxMjlHIEJ1aWxkL1VLUTEuMjMxMDAzLjAwMikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyMyIsImV4cCI6MTc2NTcyNzMxNSwianRpIjoiOWU2ZWYwYzVlMzNhMmQxNCJ9.LB04nlDEYpRVGqAqLKyWioPOckt9WcsnqAZlb12nJM4=
-#EXTINF:-1,Space TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
-#EXTINF:-1,Xezer TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
-#EXTINF:0,MTV Azərbaycan
-https://str.yodacdn.net/mtvaz/index.m3u8?token=eyJpcCI6IjIxMi40Ny4xNDQuMjU1IiwidWEiOiJNb3ppbGxhLzUuMCAoTGludXg7IFU7IEFuZHJvaWQgMTQ7IGVuLVVTOyAyMjAzMTI5RyBCdWlsZC9VS1ExLjIzMTAwMy4wMDIpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24iLCJleHAiOjE3NzY2MTQ5MjEsImp0aSI6IjcxZjgxYjJhZDA2NDYyZGEifQ==.q/4RH6gb+hz2NBwvFKB+XQeCJ3bh2WPA/UBaKrvm12c=
-#EXTINF:-1,TRT 1
-https://trt.daioncdn.net/trt-1/master.m3u8?app=web
-#EXTINF:-1,ATV
-http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
-#EXTINF:-1,Show TV
-https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+#EXTINF:0, CBC SPORT AZ FUL HD
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="2803" name="Fox", CBC TV AZERBAYCAN
+http://flussonic.izone.az:80/cbc/index.m3u8
+#EXTINF:0,🇦🇿 Sehiyye TV
+http://185.32.44.154/sehiyye/index.m3u8
+#EXTINF:0,HADI TV-3(AZERBAYCAN) DINI KANAL
+https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_360p.m3u8
+#EXTINF:0,Lalegul tv(TURK) DINI KANAL
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:0,DIYANET TV(TURK) DINI KANAL
+https://yayin30.haber100.com/live/diyartv/chunklist_w1527287330.m3u8
+#EXTINF:0,AL-ZAHRA DINI KANAL
+http://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1055", TRT 1
+http://flussonic.izone.az:80/trt1/index.m3u8
+#EXTINF:0 type="stream" channelId="1054", TRT AVAZ
+http://flussonic.izone.az:80/trtavaz/index.m3u8
+#EXTINF:0 type="stream" channelId="1092", TRT Belgesel
+http://flussonic.izone.az:80/trtbelgesel/index.m3u8
+#EXTINF:0 type="stream" channelId="1045", Show TV
+http://flussonic.izone.az:80/showtv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", ATV Türkiye HD
+http://erlyvideo.izone.az:80/atvhd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", ATV Türkiye
+http://flussonic.izone.az:80/atvturk/index.m3u8
 #EXTINF:0 type="stream" channelId="2187", Star TV HD
 http://erlyvideo.izone.az:80/starhd/index.m3u8
-#EXTINF:-1,Star TV
-http://erlyvideo.izone.az:80/starhd/index.m3u8
-#EXTINF:-1,Kanal D
-http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
-#EXTINF:-1,Euro D
-http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1,Now TV
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1,TV8
+#EXTINF:0 type="stream" channelId="2179", Star TV
+http://flussonic.izone.az:80/startv/index.m3u8
+#EXTINF:0 type="stream" channelId="1044", KANAL D
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+#EXTINF:0 type="stream" channelId="-1", EURO D HD
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2231", DMAX TR
+http://flussonic.izone.az:80/ntvsport/index.m3u8
+#EXTINF:0 type="stream" channelId="208", FOX HD (Turk)
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+#EXTINF:0 type="stream" channelId="1057", Kanal 7
+https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
+#EXTINF:0 type="stream" channelId="1025", Kanal 7 Avrupa
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+#EXTINF:0 type="stream" channelId="1076", TV8
 http://flussonic.izone.az:80/tv8/index.m3u8
-#EXTINF:-1,TV8 5
-https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
-#EXTINF:-1,Kanal 7
-https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1,Kanal 7 Avrupa
-https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
-#EXTINF:-1,FLASH HABER
-https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
-#EXTINF:-1,A2
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
-#EXTINF:-1,TEVE2
-http://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
-#EXTINF:-1,DMAX
-http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
-#EXTINF:-1,TLC
-http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
-#EXTINF:-1,TV 100
-https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
-#EXTINF:-1,TRT Turk
-https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT Haber
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TGRT Haber
-https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:-1,A Haber
-https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/ahaber.m3u8
-#EXTINF:-1,Beyaz TV
-https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
-#EXTINF:-1,Haberturk
-https://tv.ensonhaber.com/haberturk/haberturk.m3u8
-#EXTINF:-1,Haber Global
-https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-#EXTINF:-1,Halk TV
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:-1,NTV
-http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
-#EXTINF:-1,ULKE TV
-https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
-#EXTINF:-1,24 TV
-https://tv.ensonhaber.com/tv24/tv24.m3u8
-#EXTINF:-1,360 TV
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1,Akit TV
-https://akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF:-1,Sozcu TV
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
-#EXTINF:-1,Tele 1
-https://tele1-live.ercdn.net/tele1/tele1.m3u8
-#EXTINF:-1,TVNET
-https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:-1,CNBC-E
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/CNBC_E.m3u8
-#EXTINF:-1,Ekol Haber
-https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
-#EXTINF:-1,Benguturk TV
-https://tv.ensonhaber.com/benguturk/benguturk.m3u8
-#EXTINF:-1,TBMM TV
-https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
-#EXTINF:-1,DHA Canli
-https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
-#EXTINF:-1,Bloomberg HT
-https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
-#EXTINF:-1,Ekoturk
-https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/ekoturk.m3u8
-#EXTINF:-1,TRT 2
-https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TV 4
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:-1,TRT World
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT Avaz
-https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT Belgesel
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,Cine 1 TV
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-#EXTINF:-1,Ciftci TV
-https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
-#EXTINF:-1,Tivi 6
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:-1,Meltem TV
-https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
-#EXTINF:-1,DIYANET TV
-https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
-#EXTINF:-1,DOST TV
-https://dost.stream.emsal.im/tv/live.m3u8
-#EXTINF:-1,Semarkand TV
-https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
-#EXTINF:-1,Rehber TV
-https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Lalegul TV
-https://lbl.netmedya.net/hls/lalegultv.m3u8
-#EXTINF:-1,TRT Spor
-http://162.212.179.33:80/dvrfl05/gin-trtspor/playlist.m3u8
-#EXTINF:-1,TRT Spor Yildiz
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,A Spor
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_Spor.m3u8
-#EXTINF:-1,HT Spor
-https://ciner-live.ercdn.net/htspor/htspor.m3u8
-#EXTINF:-1,Sports TV
-https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
-#EXTINF:-1,Bein Sports Haber
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
-#EXTINF:-1,Ekol Sports
-https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
-#EXTINF:-1,TJK TV
-https://tjktv-live.tjk.org/tjktv.m3u8
-#EXTINF:-1,TJK TV 2
-https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
-#EXTINF:-1,TRT Muzik
-https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,Power TV
-https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
-#EXTINF:-1,Powerturk TV
-https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
-#EXTINF:-1,Powerturk Taptaze
-https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1,Powerturk Slow
-https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1,Powerturk Akustik
-https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1,Power Love
-https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1,Power Dance
-https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1,Number 1 TV
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
-#EXTINF:-1,Number 1 Turk
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
-#EXTINF:-1,Number 1 Dance
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
-#EXTINF:-1,Number 1 Damar
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
-#EXTINF:-1,Number 1 Ask
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-#EXTINF:-1,Kral Pop TV
-https://dogus.daioncdn.net/kralpoptv/kralpoptv.m3u8?app=kralpoptv_web
-#EXTINF:-1,Dream Turk
-https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1,TRT Cocuk
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT Diyanet Cocuk
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT EBA TV
-https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,Baby TV
-https://saran-live.ercdn.net/babytv/index.m3u8
-#EXTINF:-1,Persiana Turkiye
-https://turkhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1,CAN TV
-http://canbroadcast.com:7000/canlican/tv.m3u8
-#EXTINF:-1,Sat 7 Turk
-https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
-#EXTINF:-1,Syria TV
-https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
-#EXTINF:-1, EuroSport 1
+#EXTINF:0 type="stream" channelId="-1", TV 8 Int
+http://flussonic.izone.az:80/tv8int/index.m3u8
+#EXTINF:0 type="stream" channelId="3040", Teve 2
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_3_750/playlist.m3u8
+#EXTINF:0,  BEYAZ TV HD
+https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV4 FILM
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:0 type="stream" channelId="-1", Cine 1 Tv
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", CLC
+https://clcmediatv.ozelip.com:3192/stream/play.m3u8
+#EXTINF:0 type="stream" channelId="-1", TLC Turk
+http://flussonic.izone.az:80/tlcturk/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Спортивные", Bein Sport 1 HD
+http://146.59.93.251/0422/video.m3u8?token=A9C9619BB9C7
+#EXTINF:0 type="stream" channelId="-1" group="Спортивные", Bein Sport 2 HD
+http://146.59.93.251/0423/video.m3u8?token=A9C9619BB9C7
+#EXTINF:0 type="stream" channelId="-1" group="Спортивные", Bein Sport 3 HD
+http://146.59.93.251/0424/video.m3u8?token=A9C9619BB9C7
+#EXTINF:0 type="stream" channelId="4", Матч ТВ
+http://flussonic.izone.az:80/matchtv/index.m3u8
+#EXTINF:0 type="stream" channelId="224", Матч! Футбол 1
+http://flussonic.izone.az:80/futbol1/index.m3u8
+#EXTINF:0 type="stream" channelId="415", Матч! Футбол 2
+http://flussonic.izone.az:80/futbol2/index.m3u8
+#EXTINF:0 type="stream" channelId="273", Матч! Футбол 3
+http://flussonic.izone.az:80/futbol3/index.m3u8
+#EXTINF:0 type="stream" channelId="277", Наш Футбол
+http://flussonic.izone.az:80/nashfutbol/index.m3u8
+#EXTINF:0 type="stream" channelId="157", Матч! Арена
+http://flussonic.izone.az:80/matcharena/index.m3u8
+#EXTINF:0 type="stream" channelId="84", Матч! Наш Спорт
+http://flussonic.izone.az:80/nashsport/mono.m3u8
+#EXTINF:0 type="stream" channelId="919", Футбол
+http://flussonic.izone.az:80/futbol/index.m3u8
+#EXTINF:0 type="stream" channelId="82", EuroSport 1
 http://flussonic.izone.az:80/eurosport/index.m3u8
-#EXTINF:-1, EuroSport 2
+#EXTINF:0 type="stream" channelId="83", EuroSport 2
 http://flussonic.izone.az:80/eurosport2/index.m3u8
-#EXTINF:-1, EuroNews
+#EXTINF:0 type="stream" channelId="217", EuroNews
 http://flussonic.izone.az:80/euronews/mono.m3u8
-#EXTINF:-1, Первый канал
+#EXTINF:0 type="stream" channelId="1", Первый канал
 http://flussonic.izone.az:80/perviy/index.m3u8
-#EXTINF:-1, РБК
+#EXTINF:0 type="stream" channelId="9", РБК
 http://flussonic.izone.az:80/rbk/index.m3u8
-#EXTINF:-1, Россия 1
+#EXTINF:0 type="stream" channelId="2", Россия 1
 http://flussonic.izone.az:80/rossiya1/index.m3u8
-#EXTINF:-1, Россия 24
+#EXTINF:0 type="stream" channelId="10", Россия 24
 http://flussonic.izone.az:80/rosiyya24/index.m3u8
-#EXTINF:-1, Россия К
+#EXTINF:0 type="stream" channelId="5", Россия К
 http://flussonic.izone.az:80/rossiakultura/index.m3u8
-#EXTINF:-1, РТР Планета
+#EXTINF:0 type="stream" channelId="264", РТР Планета
 http://flussonic.izone.az:80/rtrplaneta/index.m3u8
-#EXTINF:-1, НТВ
+#EXTINF:0 type="stream" channelId="6", НТВ
 http://flussonic.izone.az:80/ntvplus/index.m3u8
-#EXTINF:-1, Звезда
+#EXTINF:0 type="stream" channelId="17", Звезда
 http://flussonic.izone.az:80/zvezda/index.m3u8
-#EXTINF:-1, ТВ-3
+#EXTINF:0 type="stream" channelId="8", ТВ-3
 http://flussonic.izone.az:80/tv3/mono.m3u8
-#EXTINF:-1, Че
+#EXTINF:0 type="stream" channelId="22", Че
 http://flussonic.izone.az:80/ce/index.m3u8
-#EXTINF:-1, РЕН ТВ
+#EXTINF:0 type="stream" channelId="11", РЕН ТВ
 http://flussonic.izone.az:80/rentv/index.m3u8
-#EXTINF:-1, Мир ТВ
+#EXTINF:0 type="stream" channelId="138", Мир ТВ
 http://flussonic.izone.az:80/mir/index.m3u8
-#EXTINF:-1, Мир 24
+#EXTINF:0 type="stream" channelId="589", Мир 24
 http://flussonic.izone.az:80/mir24/index.m3u8
-#EXTINF:-1, Мир сериала
+#EXTINF:0 type="stream" channelId="312", Мир сериала
 http://flussonic.izone.az:80/mirseriala/index.m3u8
-#EXTINF:-1, ТНТ
+#EXTINF:0 type="stream" channelId="16", ТНТ
 http://flussonic.izone.az:80/tnt/index.m3u8
-#EXTINF:-1, ТНТ4
+#EXTINF:0 type="stream" channelId="77", ТНТ4
 http://flussonic.izone.az:80/tntcomedy/index.m3u8
-#EXTINF:-1, СТС
+#EXTINF:0 type="stream" channelId="12", СТС
 http://flussonic.izone.az:80/ctc/index.m3u8
-#EXTINF:-1, Домашний
+#EXTINF:0 type="stream" channelId="21", Домашний
 http://flussonic.izone.az:80/domashniy/index.m3u8
-#EXTINF:-1, Ю-ТВ
+#EXTINF:0 type="stream" channelId="23", Ю-ТВ
 http://flussonic.izone.az:80/yutv/index.m3u8
-#EXTINF:-1, Пятница!
+#EXTINF:0 type="stream" channelId="26", Пятница!
 http://flussonic.izone.az:80/pyatnicha/index.m3u8
-#EXTINF:-1, 5 канал
+#EXTINF:0 type="stream" channelId="7", 5 канал
 http://flussonic.izone.az:80/5kanal/index.m3u8
-#EXTINF:-1, ТВ Центр
+#EXTINF:0 type="stream" channelId="13", ТВ Центр
 http://flussonic.izone.az:80/tvc/index.m3u8
-#EXTINF:-1, Русский Иллюзион
+#EXTINF:0 type="stream" channelId="189", Русский Иллюзион
 http://flussonic.izone.az:80/russkiyiluzion/index.m3u8
-#EXTINF:-1, TV1000 Русское кино
+#EXTINF:0 type="stream" channelId="65", TV1000 Русское кино
 http://flussonic.izone.az:80/tv1000ruskoekino/index.m3u8
-#EXTINF:-1, TV1000
+#EXTINF:0 type="stream" channelId="66", TV1000
 http://flussonic.izone.az:80/tv1000/index.m3u8
-#EXTINF:-1, VIP Megahit HD
+#EXTINF:0 type="stream" channelId="606", VIP Megahit HD
 http://erlyvideo.izone.az/VIPMegahitHD/index.m3u8
-#EXTINF:-1, TV1000 Action
+#EXTINF:0 type="stream" channelId="214", TV1000 Action
 http://flussonic.izone.az:80/tv1000action/index.m3u8
-#EXTINF:-1, VIP Premiere HD
+#EXTINF:0 type="stream" channelId="605", VIP Premiere HD
 http://erlyvideo.izone.az/VIPPremiereHD/index.m3u8
-#EXTINF:-1, VIP Comedy HD
+#EXTINF:0 type="stream" channelId="607", VIP Comedy HD
 http://erlyvideo.izone.az/VIPComedyHD/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:0 type="stream" channelId="168", Индийское кино
+http://flussonic.izone.az:80/indiskoekino/index.m3u8
+#EXTINF:0 type="stream" channelId="194", Кинокомедия
+http://flussonic.izone.az:80/kinokomedia/index.m3u8
+#EXTINF:0 type="stream" channelId="413", Киносвидание
+http://flussonic.izone.az:80/kinosvidanie/index.m3u8
+#EXTINF:0 type="stream" channelId="409", Кинохит
+http://flussonic.izone.az:80/kinoxit/index.m3u8
+#EXTINF:0 type="stream" channelId="270", Киномикс
+http://flussonic.izone.az:80/kinomiks/index.m3u8
+#EXTINF:0 type="stream" channelId="315", Наше Новое Кино
+http://flussonic.izone.az:80/nashenovoekino/index.m3u8
+#EXTINF:0 type="stream" channelId="169", Мужское кино
+http://flussonic.izone.az:80/mkino/index.m3u8
+#EXTINF:0 type="stream" channelId="195", Киносерия
+http://flussonic.izone.az:80/kinoseria/index.m3u8
+#EXTINF:0 type="stream" channelId="568", Киносемья
+http://flussonic.izone.az:80/kinosemya/index.m3u8
+#EXTINF:0 type="stream" channelId="316", Родное кино
+http://flussonic.izone.az:80/rodnoekino/index.m3u8
+#EXTINF:0 type="stream" channelId="410", Кинопремьера HD
+http://erlyvideo.izone.az:80/kinopremerahd/index.m3u8
+#EXTINF:0 type="stream" channelId="79", Еврокино
+http://flussonic.izone.az:80/eurokino/index.m3u8
+#EXTINF:0 type="stream" channelId="913", Amedia 1
+http://flussonic.izone.az:80/amedia1/index.m3u8
+#EXTINF:0 type="stream" channelId="914", Amedia 2
+http://flussonic.izone.az:80/amedia2/index.m3u8
+#EXTINF:0 type="stream" channelId="1455", History Channel
+http://flussonic.izone.az:80/history/index.m3u8
+#EXTINF:0 type="stream" channelId="166", Viasat History
+http://flussonic.izone.az:80/viasathistory/index.m3u8
+#EXTINF:0 type="stream" channelId="319", Sony Turbo
+http://flussonic.izone.az:80/sonyturbo/index.m3u8
+#EXTINF:0 type="stream" channelId="301", RTG
+http://flussonic.izone.az:80/rtg/index.m3u8
+#EXTINF:0 type="stream" channelId="57", Discovery Channel
+http://flussonic.izone.az:80/discoverychannel/index.m3u8
+#EXTINF:0 type="stream" channelId="56", National Geographic
+http://flussonic.izone.az:80/nationalgeographic/index.m3u8
+#EXTINF:0 type="stream" channelId="562", Живая Планета
+http://flussonic.izone.az:80/jivayaplaneta/index.m3u8
+#EXTINF:0 type="stream" channelId="221", Охота и рыбалка
+http://flussonic.izone.az:80/oxotoiribalka/index.m3u8
+#EXTINF:0 type="stream" channelId="249", Домашние животные
+http://flussonic.izone.az:80/domashniejivotnie/index.m3u8
+#EXTINF:0 type="stream" channelId="167", Зоопарк
+http://flussonic.izone.az:80/zoopark/index.m3u8
+#EXTINF:0 type="stream" channelId="172", Viasat Nature
+http://flussonic.izone.az:80/viasatnature/index.m3u8
+#EXTINF:0 type="stream" channelId="46", VH1 Europe
+http://flussonic.izone.az:80/vh1europe/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Discovery Turbo Extra
+http://flussonic.izone.az:80/dtx/index.m3u8
+#EXTINF:0 type="stream" channelId="136", Муз ТВ
+http://flussonic.izone.az:80/muztv/index.m3u8
+#EXTINF:0 type="stream" channelId="148", Музыка Первого
+http://flussonic.izone.az:80/muzika1/index.m3u8
+#EXTINF:0 type="stream" channelId="984", Viva
+http://flussonic.izone.az:80/vivatv/index.m3u8
+#EXTINF:0 type="stream" channelId="47", Шансон ТВ
+http://flussonic.izone.az:80/shanson/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Cartoon Network Turkiye
+http://flussonic.izone.az:80/cartoonnetworkturk/index.m3u8
+#EXTINF:0 type="stream" channelId="156", Extreme Sports
+http://flussonic.izone.az:80/extremesport/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", OSN Sport
+http://flussonic.izone.az:80/osnsports/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Bridge TB
+http://flussonic.izone.az:80/bridgetv/index.m3u8
+#EXTINF:0 type="stream" channelId="171", Da Vinci Learning
+http://flussonic.izone.az:80/davinchilearning/index.m3u8
+#EXTINF:0 type="stream" channelId="118", BBC World News
+http://flussonic.izone.az:80/bbcworld/index.m3u8
+#EXTINF:0 type="stream" channelId="1571", СТС Love
+http://flussonic.izone.az:80/ctclove/index.m3u8
+#EXTINF:0 type="stream" channelId="67", TLC
+http://flussonic.izone.az:80/tlc/index.m3u8
+#EXTINF:0 type="stream" channelId="1105", MTV RUSSIA
+http://flussonic.izone.az:80/mtvrussia/index.m3u8
+#EXTINF:0 type="stream" channelId="59", Investigation Discovery
+http://flussonic.izone.az:80/idextra/index.m3u8
+#EXTINF:0 type="stream" channelId="150", Ля минор
+http://flussonic.izone.az:80/lyaminor/index.m3u8
+#EXTINF:0 type="stream" channelId="4932", OSN Movies
+http://flussonic.izone.az:80/osnmovies/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", БОБЁР ТВ
+http://flussonic.izone.az:80/bobertv/index.m3u8
+#EXTINF:0 type="stream" channelId="149", VH1 Classic
+http://flussonic.izone.az:80/vh1classic/index.m3u8
+#EXTINF:0 type="stream" channelId="160", Ностальгия
+http://flussonic.izone.az:80/nostalgiya/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Первый образовательный
+http://flussonic.izone.az:80/perviyobrazovatelny/index.m3u8
+#EXTINF:0 type="stream" channelId="176", Время
+http://flussonic.izone.az:80/vremya/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Ani ТВ
+http://flussonic.izone.az:80/anitv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Disney Channel Türkiye
+http://flussonic.izone.az:80/disneychannelturk/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Телеканал Комедия
+http://flussonic.izone.az:80/telekanalkomedia/index.m3u8
+#EXTINF:0 type="stream" channelId="43", Mezzo
+http://flussonic.izone.az:80/mezzo/index.m3u8
+#EXTINF:0 type="stream" channelId="2802", Bollywood TV
+http://flussonic.izone.az:80/bollywoodtv/index.m3u8
+#EXTINF:0 type="stream" channelId="342", Кино ТВ
+http://flussonic.izone.az:80/kinotv/index.m3u8
+#EXTINF:0 type="stream" channelId="175", Совершенно секретно
+http://flussonic.izone.az:80/sovershennosekretno/index.m3u8
+#EXTINF:0 type="stream" channelId="174", Кто есть кто
+http://flussonic.izone.az:80/ktoestkto/index.m3u8
+#EXTINF:0 type="stream" channelId="887", История
+http://flussonic.izone.az:80/istoriya/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", 24 Док
+http://flussonic.izone.az:80/24dok/index.m3u8
+#EXTINF:0 type="stream" channelId="161", Телекафе
+http://flussonic.izone.az:80/telekafe/index.m3u8
+#EXTINF:0 type="stream" channelId="42", Европа Плюс ТВ
+http://flussonic.izone.az:80/europaplus/index.m3u8
+#EXTINF:0 type="stream" channelId="325", Загородная жизнь
+http://flussonic.izone.az:80/zaqorodnayajizn/index.m3u8
+#EXTINF:0 type="stream" channelId="177", FOX Russia
+http://flussonic.izone.az:80/foxrussia/index.m3u8
+#EXTINF:0 type="stream" channelId="69", Sony SCI-FI
+http://flussonic.izone.az:80/sonyscifi/index.m3u8
+#EXTINF:0 type="stream" channelId="324", CBS Reality
+http://flussonic.izone.az:80/cbsreality/index.m3u8
+#EXTINF:0 type="stream" channelId="135", ТДК
+http://flussonic.izone.az:80/tdk/index.m3u8
+#EXTINF:0 type="stream" channelId="80", КХЛ ТВ
+http://flussonic.izone.az:80/kxltv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Детский
+http://flussonic.izone.az:80/detskiy/index.m3u8
+#EXTINF:0 type="stream" channelId="272", НСТВ
+http://flussonic.izone.az:80/nst/index.m3u8
+#EXTINF:0 type="stream" channelId="190", Иллюзион+
+http://flussonic.izone.az:80/illuzion/index.m3u8
+#EXTINF:0 type="stream" channelId="303", Русский Бестселлер
+http://flussonic.izone.az:80/russkiybetseller/index.m3u8
+#EXTINF:0 type="stream" channelId="989", TRT Türk
+http://flussonic.izone.az:80/trtturk/index.m3u8
+#EXTINF:0 type="stream" channelId="54", Travel Channel
+http://flussonic.izone.az:80/travelchannel/index.m3u8
+#EXTINF:0 type="stream" channelId="447", Матч! Планета
+http://flussonic.izone.az:80/machplaneta/index.m3u8
+#EXTINF:0 type="stream" channelId="52", 365 дней
+http://flussonic.izone.az:80/365dney/index.m3u8
+#EXTINF:0 type="stream" channelId="14", 2x2
+http://flussonic.izone.az:80/2x2/index.m3u8
+#EXTINF:0 type="stream" channelId="193", TV XXI
+http://flussonic.izone.az:80/tv21/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", S TV
+http://flussonic.izone.az:80/stv/index.m3u8
+#EXTINF:0 type="stream" channelId="53", Моя Планета
+http://flussonic.izone.az:80/moyaplaneta/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Kral Pop
+http://flussonic.izone.az:80/kralpop/index.m3u8
+#EXTINF:0 type="stream" channelId="154", Русский Экстрим
+http://flussonic.izone.az:80/ruskiyextrim/index.m3u8
+#EXTINF:0 type="stream" channelId="191", Jim Jam
+http://flussonic.izone.az:80/jimjam/index.m3u8
+#EXTINF:0 type="stream" channelId="1722", Мульт
+http://flussonic.izone.az:80/mult/index.m3u8
+#EXTINF:0 type="stream" channelId="58", Discovery Science
+http://flussonic.izone.az:80/discoveryscience/index.m3u8
+#EXTINF:0 type="stream" channelId="1096", Minika Go
+http://flussonic.izone.az:80/minikago/index.m3u8
+#EXTINF:0 type="stream" channelId="75", Кухня ТВ
+http://flussonic.izone.az:80/kuxnyatv/index.m3u8
+#EXTINF:0 type="stream" channelId="164", Nat Geo Wild
+http://flussonic.izone.az:80/natgeowild/index.m3u8
+#EXTINF:0 type="stream" channelId="39", Детский Мир
+http://flussonic.izone.az:80/detskiymir/index.m3u8
+#EXTINF:0 type="stream" channelId="915", Amedia Premium
+http://flussonic.izone.az:80/AmediaPremium/index.m3u8
+#EXTINF:0 type="stream" channelId="1932", Amedia Hit
+http://flussonic.izone.az:80/amediahit/index.m3u8
+#EXTINF:0 type="stream" channelId="290", MTV Rocks
+http://flussonic.izone.az:80/mtvrocks/index.m3u8
+#EXTINF:0 type="stream" channelId="45", Ru TV
+http://flussonic.izone.az:80/rutv/index.m3u8
+#EXTINF:0 type="stream" channelId="19", Disney Channel
+http://flussonic.izone.az:80/disneyru/index.m3u8
+#EXTINF:0 type="stream" channelId="50", Animal Planet
+http://flussonic.izone.az:80/animalplanet/index.m3u8
+#EXTINF:0 type="stream" channelId="183", Gulli Girl
+http://flussonic.izone.az:80/gulligirl/index.m3u8
+#EXTINF:0 type="stream" channelId="155", Viasat Sport
+http://flussonic.izone.az:80/viasatsport/index.m3u8
+#EXTINF:0 type="stream" channelId="1827", Бокс ТВ
+http://flussonic.izone.az:80/bokstv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV2
+http://flussonic.izone.az:80/tv2/index.m3u8
+#EXTINF:0 type="stream" channelId="28", Music Box RU
+http://flussonic.izone.az:80/musicboxru/index.m3u8
+#EXTINF:0 type="stream" channelId="1699", Paramount Comedy
+http://flussonic.izone.az:80/paramauntcomedy/index.m3u8
+#EXTINF:0 type="stream" channelId="178", Fox Life
+http://flussonic.izone.az:80/foxlife/index.m3u8
+#EXTINF:0 type="stream" channelId="314", Любимое кино
+http://flussonic.izone.az:80/lubimoekino/index.m3u8
+#EXTINF:0 type="stream" channelId="173", Наука 2.0
+http://flussonic.izone.az:80/nauka/index.m3u8
+#EXTINF:0 type="stream" channelId="68", Дом кино
+http://flussonic.izone.az:80/domkino/index.m3u8
+#EXTINF:0 type="stream" channelId="165", Viasat Explorer
+http://flussonic.izone.az:80/viasatexplorer/index.m3u8
+#EXTINF:0 type="stream" channelId="81", Матч! Боец
+http://flussonic.izone.az:80/boets/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", HabarTurk
+http://flussonic.izone.az:80/haberturk/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TİJİ
+http://flussonic.izone.az:80/tiji/index.m3u8
+#EXTINF:0 type="stream" channelId="76", Живи!
+http://flussonic.izone.az:80/jivi/index.m3u8
+#EXTINF:0 type="stream" channelId="209", Эгоист ТВ
+http://flussonic.izone.az:80/egoisttv/index.m3u8
+#EXTINF:0 type="stream" channelId="44", MCM Top
+http://flussonic.izone.az:80/mcmtop/index.m3u8
+#EXTINF:0 type="stream" channelId="162", 24 Техно
+http://flussonic.izone.az:80/24texno/index.m3u8
+#EXTINF:0 type="stream" channelId="181", Парк Развлечений
+http://flussonic.izone.az:80/parkrasvleceniy/index.m3u8
+#EXTINF:0 type="stream" channelId="2836", Хорошее Кино
+http://flussonic.izone.az:80/xoroshoekino/index.m3u8
+#EXTINF:0 type="stream" channelId="198", Русский Роман
+http://flussonic.izone.az:80/russkiyroman/index.m3u8
+#EXTINF:0 type="stream" channelId="188", Sony TV
+http://flussonic.izone.az:80/sonytv/index.m3u8
+#EXTINF:0 type="stream" channelId="1059", TRT Çocuk
+http://flussonic.izone.az:80/trtcocuk/index.m3u8
+#EXTINF:0 type="stream" channelId="186", Мультимания
+http://flussonic.izone.az:80/multmania/index.m3u8
+#EXTINF:0 type="stream" channelId="20", Карусель
+#EXTINF:0 type="stream" channelId="1070", CNN TURK
+http://flussonic.izone.az:80/cnnturk/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png",TRT ÇOCUK
+https://trtcocuk.blutv.com/blutv_trtcocuk/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png",CARTOON NETWORK TR
+https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png",GALATASARAY TV
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png",FENERBAHÇE TV
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/gnrcpltfrm/fbtv.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png",SPORTS TV
+https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png",TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/jJWLsCQ/nr1ask.jpg",NUMBER ONE TÜRK ASK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/LR5v10B/nr1dance.jpg",NUMBER ONE TÜRK DANCE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/bQHyST5/nr1tv.png",NUMBER ONE
+http://pull1-poc.blutv.com/live/3Z8CC727/3Z8CC727_720p.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/FVNL477/pdance.png",POWER DANCE
+http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/VLQ6cmV/plove.png",POWER LOVE
+http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", tatlises tv
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Kral POP
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
