@@ -25,14 +25,12 @@ http://flussonic.izone.az:80/arbgunesh/index.m3u8
 http://flussonic.izone.az:80/muztvaz/index.m3u8
 #EXTINF:0 type="stream" channelId="888", TMB TV
 http://flussonic.izone.az:80/tmb/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Ä°dman AzÉ™rbaycan
+#EXTINF:0 type="stream" channelId="-1", İdman Azerbaycan
 http://flussonic.izone.az:80/idmanaz/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", CBC Sport HD
 http://erlyvideo.izone.az:80/cbcsporthd/index.m3u8
 #EXTINF:0 type="stream" channelId="2803" name="Fox", CBC TV AZERBAYCAN
 http://flussonic.izone.az:80/cbc/index.m3u8
-#EXTINF:0,ðŸ‡¦ðŸ‡¿ Sehiyye TV
-http://185.32.44.154/sehiyye/index.m3u8
 #EXTINF:-1 tvg-id="APATv.az@SD",APA Tv (1080p)
 http://stream.apa.tv/apastream/index.m3u8
 #EXTINF:-1 tvg-id="KNMusicTV.az@SD",KN Music TV
