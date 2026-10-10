@@ -43,6 +43,12 @@ https://rtmp.baku.tv/hls/bakutv.m3u8
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
 #EXTINF:0 type="stream" channelId="888", TMB TV
 http://flussonic.izone.az:80/tmb/index.m3u8
+#EXTINF:-1 tvg-id="NaxcivanTV.az@SD",Naxcivan TV (720p)
+https://str2.yodacdn.net/ntv/video.m3u8
+#EXTINF:-1 tvg-id="Kanal35.az@SD",Kanal 35 (720p)
+https://str2.yodacdn.net/kanal35/index.m3u8
+#EXTINF:-1 tvg-id="AzStarTV.ca@SD",Azstar TV HD (1080p)
+https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr@SD",TRT1 2K (1440p)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", ATV Türkiye HD
