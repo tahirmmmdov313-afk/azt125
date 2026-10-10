@@ -70,6 +70,14 @@ http://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 http://flussonic.izone.az:80/ntvsport/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", TLC Turk
 http://flussonic.izone.az:80/tlcturk/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Матч ТВ
+http://5.188.221.43:8080/play/match
+#EXTINF:-1 group-title="SPORT 🏆",Match_Football_1_HD
+http://31.148.5.241:80/Match_Football_1_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Match_Football_2_HD
+http://31.148.5.241:80/Match_Football_2_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Match_Football_3_HD
+http://31.148.5.241:80/Match_Football_3_HD/index.m3u8
 #EXTINF:-1 tvg-id="FlashHaber.tr" tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png",FLASH HABER
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 #EXTINF:-1 tvg-id="TRT.TÜRK.tr" tvg-logo="http://assets.tvcdn.net/fbaaa75c-0a2d-4ed6-b498-d32a59ddb899.png" group-title="Ulusal ",TRT Turk
