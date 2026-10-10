@@ -1,7 +1,7 @@
 #EXTM3
 #EXTINF:0 type="stream" channelId="2550", Azad Azerbaycan
 http://flussonic.izone.az:80/azadazerbaycan/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", XÉzÉr
+#EXTINF:0 type="stream" channelId="-1", XazarTV
 http://flussonic.izone.az:80/xezertv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", ARB TV (Region TV)
 http://flussonic.izone.az:80/arb/index.m3u8
@@ -13,7 +13,7 @@ http://flussonic.izone.az:80/realtv/index.m3u8
 http://flussonic.izone.az:80/aztv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", İctimai TV
 http://flussonic.izone.az:80/ictimaitv/index.m3u8
-#EXTINF:0 type="stream" channelId="823", MÉdÉniyyÉt TV
+#EXTINF:0 type="stream" channelId="823", Medeniyyet TV
 http://flussonic.izone.az:80/medeniyyet/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Dunya TV
 http://flussonic.izone.az:80/dunyatv/index.m3u8
@@ -27,7 +27,7 @@ http://flussonic.izone.az:80/muztvaz/index.m3u8
 http://flussonic.izone.az:80/idmanaz/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", CBC Sport HD
 http://erlyvideo.izone.az:80/cbcsporthd/index.m3u8
-#EXTINF:0 type="stream" channelId="2803" name="Fox", CBC TV AZERBAYCAN
+#EXTINF:0 type="stream" channelId="2803" name="Fox", CBC TV Rusca
 http://flussonic.izone.az:80/cbc/index.m3u8
 #EXTINF:-1 tvg-id="APATv.az@SD",APA Tv (1080p)
 http://stream.apa.tv/apastream/index.m3u8
