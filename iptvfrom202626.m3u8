@@ -177,6 +177,20 @@ http://flussonic.izone.az:80/rossiya1/index.m3u8
 http://flussonic.izone.az:80/rosiyya24/index.m3u8
 #EXTINF:0 type="stream" channelId="5", Россия К
 http://flussonic.izone.az:80/rossiakultura/index.m3u8
+#EXTINF:0 type="stream" channelId="161", Телекафе
+http://flussonic.izone.az:80/telekafe/index.m3u8
+#EXTINF:0 type="stream" channelId="42", Европа Плюс ТВ
+http://flussonic.izone.az:80/europaplus/index.m3u8
+#EXTINF:0 type="stream" channelId="177", FOX Russia
+http://flussonic.izone.az:80/foxrussia/index.m3u8
+#EXTINF:0 type="stream" channelId="69", Sony SCI-FI
+http://flussonic.izone.az:80/sonyscifi/index.m3u8
+#EXTINF:0 type="stream" channelId="324", CBS Reality
+http://flussonic.izone.az:80/cbsreality/index.m3u8
+#EXTINF:0 type="stream" channelId="190", Иллюзион+
+http://flussonic.izone.az:80/illuzion/index.m3u8
+EXTINF:0 type="stream" channelId="314", Любимое кино
+http://flussonic.izone.az:80/lubimoekino/index.m3u8
 #EXTINF:-1 tvg-id="FlashHaber.tr" tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png",FLASH HABER
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 #EXTINF:-1 tvg-id="TRT.TÜRK.tr" tvg-logo="http://assets.tvcdn.net/fbaaa75c-0a2d-4ed6-b498-d32a59ddb899.png" group-title="Ulusal ",TRT Turk
