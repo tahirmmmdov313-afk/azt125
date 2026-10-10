@@ -80,7 +80,6 @@ http://31.148.5.241:80/Match_Football_1_HD/index.m3u8
 http://31.148.5.241:80/Match_Football_2_HD/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Match_Football_3_HD
 http://31.148.5.241:80/Match_Football_3_HD/index.m3u8
-http://flussonic.izone.az:80/euronews/mono.m3u8
 #EXTINF:0 type="stream" channelId="6", НТВ
 http://flussonic.izone.az:80/ntvplus/index.m3u8
 #EXTINF:0 type="stream" channelId="8", ТВ-3
